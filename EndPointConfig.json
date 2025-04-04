@@ -1,0 +1,7 @@
+{
+  "scoring_uri": "https://mlermeterio-wlrqy.eastus2.inference.ml.azure.com/score",
+  "auth": {
+    "primarykey": "EkDkZxUkdC4XKk3WCcB8r7HTSVMvEUE9Sd1OiL9ZUHoQqfX4f69nJQQJ99BDAAAAAAAAAAAAINFRAZML1HtX",
+	"secondaryKey" : "BRDQ5KMmLHfqWWiiN6TPJc3Qr9ROjAh3XH3vmdhEis0CwUIkF5ybJQQJ99BDAAAAAAAAAAAAINFRAZML49P6"
+  }
+}
